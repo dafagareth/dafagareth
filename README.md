@@ -40,7 +40,7 @@ Linux (yes, btw). Open to internships and freelance, so feel free to reach out.
 ![Stats](https://github-readme-stats.vercel.app/api?username=dafagareth&show_icons=true&hide_border=true&theme=transparent&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dafagareth&layout=compact&hide_border=true&theme=transparent)
 
-</div>
+</div>-->
 
 ### How I like to work
 
@@ -51,4 +51,4 @@ Linux (yes, btw). Open to internships and freelance, so feel free to reach out.
 ### Say hi
 
 - Email: dafagareth@gmail.com
-- Blog: [dafagareth.dev](https://dafagareth.dev)
+<!--- Blog: [dafagareth.dev](https://dafagareth.dev)
