@@ -1,6 +1,6 @@
 # Hey, I'm Dafa Gareth
 
-4th semester CS student at Universitas Putra Indonesia YPTK Padang. I build small,
+4th semester SI student at Universitas Putra Indonesia YPTK Padang. I build small,
 sharp tools in Go and spend way too much time figuring out how things work under
 the hood. Daily driving Arch Linux (yes, btw).
 
@@ -18,7 +18,7 @@ type Dafa struct {
 
 func main() {
 	_ = Dafa{
-		Studying: "CS @ UPI YPTK, semester 4",
+		Studying: "SI @ UPI YPTK, semester 4",
 		Loves:    []string{"Go", "the terminal", "clean simple code"},
 		Learning: []string{"distributed systems", "Kubernetes", "Go concurrency"},
 		OpenTo:   "internship / freelance",
@@ -35,12 +35,6 @@ func main() {
 - **My portfolio + blog**, server-rendered in Go with Chi, templ, HTMX, and Tailwind.
   No JS framework, just fast SSR.
 
-## What I poke at
-
-`Go` `PHP` `JavaScript` `SQL` `Bash`
-`Chi` `SQLite` `PostgreSQL` `HTMX` `templ` `Tailwind`
-`Docker` `Git` `Linux` `Neovim` `Nginx`
-
 ## How I like to work
 
 - Simple beats clever, every time
@@ -50,7 +44,7 @@ func main() {
 ## Say hi
 
 - Email: dafagareth@gmail.com
-- Blog: [dafagareth.dev](https://dafagareth.dev)
+<!-- - Blog: [dafagareth.dev](https://dafagareth.dev)-->
 
 <!--
 Optional GitHub stats. Uncomment if you want them on your profile.
