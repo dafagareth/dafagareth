@@ -33,7 +33,7 @@ Linux (yes, btw). Open to internships and freelance, so feel free to reach out.
 <!-- This list fills automatically via a GitHub Action once the blog is live. -->
 <!-- BLOG-POST-LIST:END -->
 
-### My GitHub at a glance
+<!-- ### My GitHub at a glance
 
 <div align="center">
 
