@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=DM+Mono&size=24&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dafa+Gareth;CS+student+%40+UPI+YPTK+Padang;Go+%26+backend+enjoyer;Open+to+internships+%26+freelance)
+![Header](https://readme-typing-svg.demolab.com?font=DM+Mono&size=24&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dafa+Gareth;SI+student+%40+UPI+YPTK+Padang;Go+%26+backend+enjoyer;Open+to+internships+%26+freelance)
 
 </div>
 
-4th semester CS student from Indonesia. I build small, sharp tools in Go and spend
+4th semester SI student from Indonesia. I build small, sharp tools in Go and spend
 way too much time figuring out how things work under the hood. Daily driving Arch
 Linux (yes, btw). Open to internships and freelance, so feel free to reach out.
 
