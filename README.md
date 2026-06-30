@@ -18,7 +18,7 @@ Linux (yes, btw).
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
-### What I'm building
+<!--### What I'm building
 
 - **[svault](https://github.com/dafagareth/svault)** is a local encrypted secret
   vault CLI in Go. AES-256-GCM, Argon2id, single binary, zero dependencies. Built
@@ -42,7 +42,7 @@ Linux (yes, btw).
 
 </div>-->
 
-### How I like to work
+<!--### How I like to work
 
 - Simple beats clever, every time
 - Write code the next person can actually read
@@ -51,4 +51,4 @@ Linux (yes, btw).
 ### Say hi
 
 - Email: dafagareth@gmail.com
-<!--- Blog: [dafagareth.dev](https://dafagareth.dev)
+<!--- Blog: [dafagareth.dev](https://dafagareth.dev)-->
