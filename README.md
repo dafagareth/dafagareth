@@ -1,3 +1,7 @@
+<div align="center">
+
+![Header](https://readme-typing-svg.demolab.com?font=DM+Mono&size=24&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dafa+Gareth;SI+student+%40+UPI+YPTK+Padang;Go+%26+backend+enjoyer;Open+to+internships+%26+freelance)
+
 </div>
 
 5th semester SI student from Indonesia. I build small, sharp tools in Go and spend
@@ -14,37 +18,22 @@ Linux (yes, btw).
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
-<!--### What I'm building
+### What I'm building
 
 - **[svault](https://github.com/dafagareth/svault)** is a local encrypted secret
   vault CLI in Go. AES-256-GCM, Argon2id, single binary, zero dependencies. Built
   because I was tired of secrets sitting in plain `.env` files. Comes with tests,
   CI, and packaging for Linux, macOS, and Windows.
-- **My portfolio and blog**, server-rendered in Go with Chi, templ, HTMX, and
-  Tailwind. No JS framework, just fast SSR.
+- **[daemontalk](https://github.com/dafagareth/daemontalk)** is an engineering publication, systems knowledge graph, and interactive UNIX playground. Built with Go, Templ, HTMX, Tailwind v4, and Charm Bubble Tea, featuring an interactive TUI accessible over SSH.
 
 <!-- ### Latest from my blog
+BLOG-POST-LIST:START
+This list fills automatically via a GitHub Action once the blog is live.
+BLOG-POST-LIST:END -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This list fills automatically via a GitHub Action once the blog is live. -->
-<!-- BLOG-POST-LIST:END -->
+### Get in Touch
 
-<!-- ### My GitHub at a glance
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dafagareth&show_icons=true&hide_border=true&theme=transparent&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dafagareth&layout=compact&hide_border=true&theme=transparent)
-
-</div>-->
-
-<!--### How I like to work
-
-- Simple beats clever, every time
-- Write code the next person can actually read
-- Docs are part of the product, not an afterthought
-
-### Say hi
+I'm always eager to learn, chat about tech, or collaborate on interesting projects. Open to internships and freelance gigs!
 
 - Email: dafagareth@gmail.com
-<!--- Blog: [dafagareth.dev](https://dafagareth.dev)-->
+<!-- - Blog: [dafagareth.dev](https://dafagareth.dev) -->
